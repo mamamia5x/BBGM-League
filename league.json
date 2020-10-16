@@ -4,6 +4,7 @@
     {
       "key": "confs",
       "value": [
+        can do start to "start": and year to notify when the year thingy did
         {"cid": 0, "name": "Eastern Conference"},
         {"cid": 1, "name": "Western Conference"}
       ]
