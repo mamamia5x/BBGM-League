@@ -1,0 +1,3 @@
+Really early in development, but basically the big league is a league file that I've used and I'm trying using it to reference.
+
+Logos should change over time, and so should colors.
