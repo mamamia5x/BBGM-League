@@ -1,0 +1,41 @@
+{
+  "version": 39,
+  "gameAttributes": [
+    {
+      "key": "confs",
+      "value": [
+        {"cid": 0, "name": "Eastern Conference"},
+        {"cid": 1, "name": "Western Conference"}
+      ]
+    },
+    {
+      "key": "divs",
+      "value": [
+          {"did": 0, "cid": 0, "name":"Pacific"},
+          {"did": 1, "cid": 0, "name": "Central"},
+          {"did": 2, "cid": 1, "name": "Central"},
+          {"did": 3, "cid": 1, "name": "Atlantic"}
+      ]
+    },
+    {
+      "teams": [
+        {
+          "tid": 0,
+          "cid": 0,
+          "did": 0,
+          "region": "New York",
+          "name": "Guardians",
+          "abbrev": "NY",
+          "pop": 6.9,
+          "stadiumCapacity": 25000
+          "imgURL": ?????????????????????????????????????? Team unknown Not Finished
+        },
+        {
+        
+        }
+      ]
+    }
+      
+  ]
+}
+   
