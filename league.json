@@ -4,7 +4,6 @@
     {
       "key": "confs",
       "value": [
-        can do start to "start": and year to notify when the year thingy did
         {"cid": 0, "name": "Eastern Conference"},
         {"cid": 1, "name": "Western Conference"}
       ]
@@ -28,8 +27,7 @@
           "name": "Guardians",
           "abbrev": "NY",
           "pop": 6.9,
-          "stadiumCapacity": 25000
-          "imgURL": ?????????????????????????????????????? Team unknown Not Finished
+          "stadiumCapacity": 2500
         },
         {
         
