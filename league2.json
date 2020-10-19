@@ -20,6 +20,10 @@
             "value": 1932
         },
         {
+            "key": "startingSeason",
+            "value": 1932
+        },
+        {
             "key": "numPlayoffRounds",
             "value": 2
         }
